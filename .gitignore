@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+instance/
+env/
+venv/
+ENV/
+lib/
+lib64/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+
+# Environment variables
+.env
+.env.*
+!.env.example # If you have an example env file, you might want to commit that
+
+# FAISS index data (and other local data stores)
+faiss_indexes/
+faiss_index/ # If you used the singular name before
+*.faiss
+*.pkl # If you were saving other pickled data
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.project
+*.pydevproject
+*.iml
+*.DS_Store # macOS
+
+# Streamlit specific (less common to ignore, but if you have local session state files you don't want)
+# .streamlit/ # Usually contains secrets.toml, config.toml which might be per-deployment
+
+# Log files
+*.log
+logs/
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Notebooks (if you have checkpoint files)
+.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
