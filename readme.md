@@ -5,10 +5,10 @@
 Hey there! This is a simple web application that lets you upload PDF files and then ask questions about their content. Think of it like having a conversation directly with your documents!
 
 
-![Landing Page](./images/screenshot(9).png)
-![Uploading PDF](./images/screenshot(10).png)
-![Asking Questions](./images/screenshot(11).png)
-![Asking Questions](./images/screenshot(12).png)
+![Landing Page](./images/Landing-Page.png)
+![Uploading PDF](./images/Uploading-pdf.png)
+![Asking Questions](./images/Asking-Questions1.png)
+![Asking Questions](./images/Asking-Questions1.png)
 
 
 ## 🚀 How It Works (The Gist)
